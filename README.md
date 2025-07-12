@@ -8,3 +8,6 @@ This Python script uses the `turtle` graphics library to draw a hexagon with six
 ## 
 ## 8-Petal Flower Drawing with Python Turtle 🐢🌸
 This script uses Python's `turtle` module to draw an 8-petal red flower with a yellow center. It’s a simple graphics demo using loops and curves perfect for beginners learning turtle graphics.
+## 
+## 🌸 8-Petal Flower with leaf and pot using Turtle Graphics
+A simple Python turtle graphics project that draws an 8-petal red flower with an orange center, a green stem, one leaf, and a brown flower pot. It also includes a fun text caption above the flower.
