@@ -52,7 +52,7 @@ This project showcases a vibrant collection of colourful designs and patterns cr
 
 ### `FlowerPot/` 🌷
 - **Flower.py** 🌼: Simple flower design.
-- **Flower_Pot.py** 🪴: Flower pot with leaf (minimal colours).
+- **Flower_Pot.py** 🌻: Flower pot with leaf (minimal colours).
 - **Flower_Pot(1).py** 🌺: Flower pot with 2 leaves and max colours.
 
 ---
