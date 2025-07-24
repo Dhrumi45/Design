@@ -1,5 +1,3 @@
-# Design
-Different colourful designs using turtle module with python coding
 # 🎨 Design Repository
 
 Welcome to the **Design** repository!  
@@ -16,9 +14,9 @@ This project showcases a vibrant collection of colourful designs and patterns cr
 |------------------------------|----------------------------------------------------------------|
 | [`Design-Repository/`](#design-repository) | 🎨 Colourful designs using the Turtle module                     |
 | [`Animal/`](#animal)         | 🐾 Cute cartoon animal designs                                 |
-| [`Basic_Design/`](#Basic_Design) | 📐 Basic geometric shapes and patterns                         |
-| [`FlowerPot/`](#FlowerPot)   | 🌷 Beautiful flower and flower pot designs                     |
-| [`Geometric_Patterns/`](#Geometric_Patterns) | 🎊 Colourful rangoli & mandala patterns                         |
+| [`Basic_Design/`](#basic_design) | 📐 Basic geometric shapes and patterns                         |
+| [`FlowerPot/`](#flowerpot)   | 🌷 Beautiful flower and flower pot designs                     |
+| [`Geometric_Patterns/`](#geometric_patterns) | 🎊 Colourful rangoli & mandala patterns                         |
 
 ---
 
