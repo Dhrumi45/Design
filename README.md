@@ -13,10 +13,10 @@ This project showcases a vibrant collection of colourful designs and patterns cr
 | Folder / File                | Description                                                    |
 |------------------------------|----------------------------------------------------------------|
 | [`Design-Repository/`](#design-repository) | 🎨 Colourful designs using the Turtle module                     |
-| [`Animal/`](#animal)         | 🐾 Cute cartoon animal designs                                 |
-| [`Basic_Design/`](#basic_design) | 📐 Basic geometric shapes and patterns                         |
-| [`FlowerPot/`](#flowerpot)   | 🌷 Beautiful flower and flower pot designs                     |
-| [`Geometric_Patterns/`](#geometric_patterns) | 🎊 Colourful rangoli & mandala patterns                         |
+| [`Animal/`](#animal-)         | 🐾 Cute cartoon animal designs                                 |
+| [`Basic_Design/`](#basic_design-) | 📐 Basic geometric shapes and patterns                         |
+| [`FlowerPot/`](#flowerpot-)   | 🌷 Beautiful flower and flower pot designs                     |
+| [`Geometric_Patterns/`](#geometric_patterns-) | 🎊 Colourful rangoli & mandala patterns                         |
 
 ---
 
